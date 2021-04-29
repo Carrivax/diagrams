@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T13:29:03.038Z" agent="5.0 (Windows)" etag="ZQI_PJMkGKabKFpHEdhJ" version="14.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-29T14:04:21.945Z" agent="5.0 (Windows)" etag="Q0--hYPfsx-QDeu4YHKR" version="14.6.6" type="github" pages="3">
   <diagram name="Plantilla" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ce96vKwngloAwQ1dZxl3" name="Inicio de sesión">
-    <mxGraphModel dx="677" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="atkecwbkBqlZnpO5Pbow-0" />
         <mxCell id="atkecwbkBqlZnpO5Pbow-1" parent="atkecwbkBqlZnpO5Pbow-0" />
@@ -186,7 +186,7 @@
         <mxCell id="U_TjV-nP07pWhMO7ot_1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="atkecwbkBqlZnpO5Pbow-1">
           <mxGeometry x="65" y="120" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NpIZHxSUPUn8s1t4g-vy-2" value="Auditor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="atkecwbkBqlZnpO5Pbow-1">
+        <mxCell id="NpIZHxSUPUn8s1t4g-vy-2" value="Auditor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="atkecwbkBqlZnpO5Pbow-1">
           <mxGeometry x="80" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U_TjV-nP07pWhMO7ot_1-2" value=": Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="atkecwbkBqlZnpO5Pbow-1">
@@ -204,7 +204,7 @@
         <mxCell id="U_TjV-nP07pWhMO7ot_1-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="atkecwbkBqlZnpO5Pbow-1">
           <mxGeometry x="285" y="170" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="tGmUgj7P646PKe-1eYer-0" value="1: iniciarSesión" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.061;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" target="U_TjV-nP07pWhMO7ot_1-4">
+        <mxCell id="tGmUgj7P646PKe-1eYer-0" value="1: iniciarSesión" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.061;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" target="U_TjV-nP07pWhMO7ot_1-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="106" y="171" as="sourcePoint" />
             <mxPoint x="285" y="180" as="targetPoint" />
@@ -213,37 +213,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-nbamvFyIpkH7UjUAcIP-0" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;1.1: EnviarCredenciales&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;(email, contraseña)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.014;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.978;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-4" target="U_TjV-nP07pWhMO7ot_1-5">
+        <mxCell id="-nbamvFyIpkH7UjUAcIP-0" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;1.1: EnviarCredenciales&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;(email, contraseña)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.014;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.978;exitY=0.17;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-4" target="U_TjV-nP07pWhMO7ot_1-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="206" as="sourcePoint" />
             <mxPoint x="399" y="204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-nbamvFyIpkH7UjUAcIP-1" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;1.1.1: comprobarCredenciales&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(email, contraseña):boolean&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.057;entryY=0.109;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-2" target="U_TjV-nP07pWhMO7ot_1-6">
+        <mxCell id="-nbamvFyIpkH7UjUAcIP-1" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;1.1.1: comprobarCredenciales&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;(email, contraseña):boolean&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.057;entryY=0.109;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.895;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-5" target="U_TjV-nP07pWhMO7ot_1-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="210" as="sourcePoint" />
+            <mxPoint x="560" y="240" as="sourcePoint" />
             <mxPoint x="555" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKYfvoJv8917Pe6KQgpl-1" value="1.1.2: TRUE" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;entryX=1.167;entryY=0.742;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.033;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-6" target="U_TjV-nP07pWhMO7ot_1-5">
+        <mxCell id="XKYfvoJv8917Pe6KQgpl-1" value="1.1.2: TRUE" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;entryX=1.167;entryY=0.742;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.033;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-6" target="U_TjV-nP07pWhMO7ot_1-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="290" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKYfvoJv8917Pe6KQgpl-2" value="1.1.3: RedirectPaginaPrincipal" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;exitX=0.067;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-5">
+        <mxCell id="XKYfvoJv8917Pe6KQgpl-2" value="1.1.3: RedirectPaginaPrincipal" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;exitX=0.067;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="393.65999999999997" y="320.9775" as="sourcePoint" />
             <mxPoint x="300" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKYfvoJv8917Pe6KQgpl-3" value="1.1.4: mostrarPaginaPrincipal" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;entryX=1.1;entryY=0.697;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.033;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-4" target="NpIZHxSUPUn8s1t4g-vy-1">
+        <mxCell id="XKYfvoJv8917Pe6KQgpl-3" value="1.1.4: mostrarPaginaPrincipal" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;entryX=1.1;entryY=0.697;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.033;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="atkecwbkBqlZnpO5Pbow-1" source="U_TjV-nP07pWhMO7ot_1-4" target="NpIZHxSUPUn8s1t4g-vy-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230.67000000000007" y="380.005" as="sourcePoint" />
             <mxPoint x="80.00000000000011" y="380.35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKYfvoJv8917Pe6KQgpl-4" value="El auditor accede a la aplicación introduciendo unas credenciales correctas" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="atkecwbkBqlZnpO5Pbow-1">
+        <mxCell id="XKYfvoJv8917Pe6KQgpl-4" value="El auditor accede a la aplicación introduciendo unas credenciales correctas" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=19;verticalAlign=top;align=center;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="atkecwbkBqlZnpO5Pbow-1">
           <mxGeometry x="800" y="400" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
