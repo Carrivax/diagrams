@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T14:03:06.024Z" agent="5.0 (Windows)" etag="2uaPTH9wL1y8O_6BSCyv" version="14.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-29T15:44:31.729Z" agent="5.0 (Windows)" etag="ZwtYJxolGXt24TUMR61V" version="14.6.6" type="github" pages="3">
   <diagram id="iUYh6S3RtDVZ5PyIDheF" name="Gestión de usuarios">
     <mxGraphModel dx="1673" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uvsDaVd99pkUFfOUzkuF" name="Gestión de auditorías">
-    <mxGraphModel dx="1673" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OW5_0RVWOnmBY2bEEzs0-0" />
         <mxCell id="OW5_0RVWOnmBY2bEEzs0-1" parent="OW5_0RVWOnmBY2bEEzs0-0" />
@@ -97,7 +97,7 @@
             <mxPoint x="40" y="398" as="sourcePoint" />
             <mxPoint x="320" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="663" />
+              <mxPoint x="197" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
