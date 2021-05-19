@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T13:15:04.074Z" agent="5.0 (Windows)" etag="ib8rHWeDwXVR18r4CnvP" version="14.6.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-19T13:18:14.142Z" agent="5.0 (Windows)" etag="p2iW98FNBRQALvs1Wszv" version="14.6.13" type="github" pages="3">
   <diagram id="iUYh6S3RtDVZ5PyIDheF" name="Gestión de usuarios">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M6uFmnmE_KlvoxXmqqoW" name="Completo">
-    <mxGraphModel dx="1483" dy="781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="djPrRUeTktovrTa23RN3-0" />
         <mxCell id="djPrRUeTktovrTa23RN3-1" parent="djPrRUeTktovrTa23RN3-0" />
