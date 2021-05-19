@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T13:18:14.142Z" agent="5.0 (Windows)" etag="p2iW98FNBRQALvs1Wszv" version="14.6.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-19T14:29:06.937Z" agent="5.0 (Windows)" etag="pK3WjtjoU9tS7ycMpyrQ" version="14.6.13" type="github" pages="3">
   <diagram id="iUYh6S3RtDVZ5PyIDheF" name="Gestión de usuarios">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yZQrfxy-AB_LB68cBQ0N-3" value="Sistema" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="yZQrfxy-AB_LB68cBQ0N-3" value="Sistema" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="160" width="400" height="500" as="geometry" />
         </mxCell>
         <mxCell id="pWuJ-d0qpCr-HyZSL40h-1" value="&lt;div&gt;Auditor&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -101,7 +101,7 @@
       <root>
         <mxCell id="OW5_0RVWOnmBY2bEEzs0-0" />
         <mxCell id="OW5_0RVWOnmBY2bEEzs0-1" parent="OW5_0RVWOnmBY2bEEzs0-0" />
-        <mxCell id="3nBgRsE3fJ8ULukQgwAN-0" value="Sistema" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="OW5_0RVWOnmBY2bEEzs0-1" vertex="1">
+        <mxCell id="3nBgRsE3fJ8ULukQgwAN-0" value="Sistema" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=#FFFFFF;" parent="OW5_0RVWOnmBY2bEEzs0-1" vertex="1">
           <mxGeometry x="270" y="110" width="610" height="610" as="geometry" />
         </mxCell>
         <mxCell id="gLf11SHH5s5rgL-T1KJr-0" value="&lt;div&gt;Auditor&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="OW5_0RVWOnmBY2bEEzs0-1" vertex="1">
@@ -229,11 +229,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M6uFmnmE_KlvoxXmqqoW" name="Completo">
-    <mxGraphModel dx="1730" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="djPrRUeTktovrTa23RN3-0" />
         <mxCell id="djPrRUeTktovrTa23RN3-1" parent="djPrRUeTktovrTa23RN3-0" />
-        <mxCell id="dvoKfLWGoI72UOiYLo7p-25" value="Sistema" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="djPrRUeTktovrTa23RN3-1">
+        <mxCell id="dvoKfLWGoI72UOiYLo7p-25" value="Sistema" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;swimlaneFillColor=#FFFFFF;shadow=0;sketch=0;fillStyle=auto;fillColor=#dae8fc;" vertex="1" parent="djPrRUeTktovrTa23RN3-1">
           <mxGeometry x="123" y="183" width="750" height="730" as="geometry" />
         </mxCell>
         <mxCell id="5tUYNkKSnRK0NNZLMd6n-2" value="" style="group;" vertex="1" connectable="0" parent="djPrRUeTktovrTa23RN3-1">
