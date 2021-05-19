@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T13:36:28.266Z" agent="5.0 (Windows)" etag="c64Bt5En4k3ywbZHkNZ9" version="14.6.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-19T13:38:09.380Z" agent="5.0 (Windows)" etag="tJ3lieejLTmRKC1hkqIR" version="14.6.13" type="github" pages="2">
   <diagram id="kV6jJbXeaDeTd83aYg1n" name="Clases">
     <mxGraphModel dx="2083" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -242,10 +242,10 @@
           <mxGeometry y="26" width="250" height="46" as="geometry" />
         </mxCell>
         <mxCell id="tNRHAjsADiZPEaAnYKax-21" value="«interface»&lt;br&gt;&lt;b&gt;AuditService&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="412.5" y="334.09000000000003" width="225" height="155" as="geometry" />
+          <mxGeometry x="412.5" y="334.09" width="237.5" height="155" as="geometry" />
         </mxCell>
         <mxCell id="tNRHAjsADiZPEaAnYKax-23" value="+create(auditDto : AuditDto) : Audit&#xa;+findByUserId(logged : User) : Audit[1..*]&#xa;+edit(auditDto : AuditDto)&#xa;+notBelongs(auditId: UUID): boolean&#xa;+findById(auditId : UUID) : Audit&#xa;+delete(auditId : UUID)&#xa;+ getPercentage(): List&lt;String&gt;&#xa;&#xa;" style="text;strokeColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffffff;" parent="tNRHAjsADiZPEaAnYKax-21" vertex="1">
-          <mxGeometry y="41" width="225" height="114" as="geometry" />
+          <mxGeometry y="41" width="237.5" height="114" as="geometry" />
         </mxCell>
         <mxCell id="tNRHAjsADiZPEaAnYKax-24" value="«interface»&lt;br&gt;&lt;b&gt;ControlDataService&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="420" y="666" width="230" height="94" as="geometry" />
