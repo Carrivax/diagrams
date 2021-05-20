@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T15:49:31.257Z" agent="5.0 (Windows)" etag="zmNIy42QZ7D_qExSPfhQ" version="14.6.13" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-20T15:56:35.785Z" agent="5.0 (Windows)" etag="ql5UMzNfIL9fYsXojVqA" version="14.6.13" type="github" pages="6">
   <diagram name="Plantilla" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -511,7 +511,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bFMdREbMN3FOMeDGVcuN" name="Completar auditoría">
-    <mxGraphModel dx="1278" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1065" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="CwvGh4pJ_-o3KNgzKlUW-0" />
         <mxCell id="CwvGh4pJ_-o3KNgzKlUW-1" parent="CwvGh4pJ_-o3KNgzKlUW-0" />
@@ -545,20 +545,22 @@
         <mxCell id="rVa124PxYFdMyzslkxJh-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="CwvGh4pJ_-o3KNgzKlUW-1">
           <mxGeometry x="285" y="170" width="10" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="rVa124PxYFdMyzslkxJh-10" value="1: seleccionaAuditoría" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.061;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" target="rVa124PxYFdMyzslkxJh-9">
+        <mxCell id="rVa124PxYFdMyzslkxJh-10" value="1: seleccionaAuditoría" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.085;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1.027;exitY=0.079;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" target="rVa124PxYFdMyzslkxJh-9" source="rVa124PxYFdMyzslkxJh-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="106" y="171" as="sourcePoint" />
             <mxPoint x="285" y="180" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="250" y="170" />
               <mxPoint x="170" y="171" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rVa124PxYFdMyzslkxJh-11" value="&lt;div style=&quot;font-size: 8px&quot;&gt;2.1: EnviarDatosControles&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;(findings, risks, countermeasures, status)&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1">
+        <mxCell id="rVa124PxYFdMyzslkxJh-11" value="&lt;div style=&quot;font-size: 8px&quot;&gt;2.1: EnviarDatosControles&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;(findings, risks, countermeasures, status)&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=-0.083;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.025;exitY=0.616;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" source="rVa124PxYFdMyzslkxJh-9" target="rVa124PxYFdMyzslkxJh-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="290" as="sourcePoint" />
             <mxPoint x="545" y="290" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="450" y="299" />
               <mxPoint x="440" y="290" />
             </Array>
           </mxGeometry>
@@ -579,7 +581,7 @@
             <mxPoint x="310" y="347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rVa124PxYFdMyzslkxJh-14" value="2.1.4: mostrarMensajeÉxito" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;exitX=0.033;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=1.045;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" source="rVa124PxYFdMyzslkxJh-9" target="rVa124PxYFdMyzslkxJh-1">
+        <mxCell id="rVa124PxYFdMyzslkxJh-14" value="2.1.4: mostrarMensajeÉxito" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;exitX=-0.009;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=1.045;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" source="rVa124PxYFdMyzslkxJh-9" target="rVa124PxYFdMyzslkxJh-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230.67000000000007" y="380.005" as="sourcePoint" />
             <mxPoint x="120" y="379" as="targetPoint" />
@@ -594,20 +596,22 @@
             <mxPoint x="570" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rVa124PxYFdMyzslkxJh-17" value="&lt;div&gt;1.1: seleccionaAuditoría&lt;/div&gt;&lt;div&gt;(auditId)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.12;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.986;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" source="rVa124PxYFdMyzslkxJh-9" target="rVa124PxYFdMyzslkxJh-6">
+        <mxCell id="rVa124PxYFdMyzslkxJh-17" value="&lt;div&gt;1.1: seleccionaAuditoría&lt;/div&gt;&lt;div&gt;(auditId)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=-0.009;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" target="rVa124PxYFdMyzslkxJh-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="359.9999999999999" y="210.16" as="sourcePoint" />
-            <mxPoint x="538.3900000000001" y="209.99999999999991" as="targetPoint" />
+            <mxPoint x="295" y="200" as="sourcePoint" />
+            <mxPoint x="510" y="196" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="510" y="200" />
               <mxPoint x="420" y="196" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rVa124PxYFdMyzslkxJh-18" value="2: auditar" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.061;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1">
+        <mxCell id="rVa124PxYFdMyzslkxJh-18" value="2: auditar" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.003;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1.013;exitY=0.558;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" source="rVa124PxYFdMyzslkxJh-1" target="rVa124PxYFdMyzslkxJh-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="106.60999999999989" y="279.82" as="sourcePoint" />
             <mxPoint x="285.0000000000001" y="279.6599999999999" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="150" y="290" />
               <mxPoint x="170.61" y="279.82" />
             </Array>
           </mxGeometry>
@@ -622,7 +626,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rVa124PxYFdMyzslkxJh-20" value="1.1.2: Controles" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=1.056;entryY=0.246;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" target="rVa124PxYFdMyzslkxJh-6">
+        <mxCell id="rVa124PxYFdMyzslkxJh-20" value="1.1.2: Controles" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=8;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=1.042;entryY=0.311;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.043;exitY=0.285;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CwvGh4pJ_-o3KNgzKlUW-1" source="rVa124PxYFdMyzslkxJh-8" target="rVa124PxYFdMyzslkxJh-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="852.31" y="230" as="sourcePoint" />
             <mxPoint x="560" y="230" as="targetPoint" />
